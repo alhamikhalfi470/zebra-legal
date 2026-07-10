@@ -2,7 +2,7 @@
 
 Effective date: July 2, 2026
 
-This Privacy Policy explains how Zebra ("Zebra", "we", "us", or "our") handles information when you use the Zebra iOS app. Zebra is a visual research and moodboard app that lets you browse public Are.na channels and blocks, save references, keep media offline, and use Zebra Pro features.
+This Privacy Policy explains how Zebra ("Zebra", "we", "us", or "our") handles information when you use the Zebra iOS app. Zebra is a visual research and moodboard app that lets you browse public Are.na channels and blocks, save permitted references locally, and use Zebra Pro features.
 
 If you have questions, contact us at kicikkustudio@gmail.com.
 
@@ -30,7 +30,7 @@ Zebra can store the following data locally on your device:
 
 - Saved Are.na blocks and channels
 - Bookmarked channels and custom folders
-- Offline media files that you choose to save
+- Local reference files that you choose to save
 - Export drafts and generated moodboard/contact sheet output
 - App preferences such as theme settings
 - Zebra Pro access status and product identifiers
@@ -67,7 +67,7 @@ Zebra does not use your data to track you across apps or websites owned by other
 
 ## Data Retention
 
-Local library data remains on your device until you delete it in the app, clear relevant app data, or uninstall Zebra. Offline media and exports remain on your device until deleted by you.
+Local library data remains on your device until you delete it in the app, clear relevant app data, or uninstall Zebra. Local reference files and exports remain on your device until deleted by you.
 
 Support emails are retained only as long as reasonably necessary to respond to you, maintain support records, resolve disputes, and comply with legal obligations.
 

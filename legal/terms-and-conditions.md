@@ -2,7 +2,7 @@
 
 Effective date: July 2, 2026
 
-These Terms and Conditions ("Terms") govern your use of Zebra, an iOS app for visual research, moodboards, saved references, offline media, and Zebra Pro features.
+These Terms and Conditions ("Terms") govern your use of Zebra, an iOS app for visual research, moodboards, saved references, a local reference library, and Zebra Pro features.
 
 By downloading, accessing, or using Zebra, you agree to these Terms. If you do not agree, do not use Zebra.
 
@@ -12,13 +12,15 @@ Zebra is owned by kicikkustudio@gmail.com.
 
 ## 1. The App
 
-Zebra lets you browse public Are.na channels and blocks, search public Are.na content, save references locally, store selected media offline, and export moodboards or contact sheets. Zebra is not Are.na and is not operated by Are.na.
+Zebra lets you browse public Are.na channels and blocks, search public Are.na content, save permitted references locally, and export moodboards or contact sheets. Zebra is not Are.na and is not operated by Are.na.
 
 ## 2. Third-Party Content and Services
 
 Zebra displays content from Are.na and may load media, embeds, and source links from third-party websites. That content belongs to its respective owners and may be subject to third-party terms, licenses, copyright rules, and privacy policies.
 
-You are responsible for making sure you have the right to save, download, export, share, or otherwise use any content accessed through Zebra. Offline saving is intended for personal research and organization unless you have permission for another use.
+You are responsible for making sure you have the right to save, export, share, or otherwise use any content accessed through Zebra. Local saving is intended for personal research and organization unless you have permission for another use.
+
+Zebra is not designed for downloading music, video, streaming media, or other third-party media without authorization. Do not use Zebra to copy content unless you own it, have permission, or are otherwise legally allowed to keep a local reference copy.
 
 Zebra does not control, endorse, or guarantee third-party content. Third-party content may be inaccurate, unavailable, offensive, infringing, or removed at any time.
 
@@ -36,7 +38,7 @@ You may not:
 
 ## 4. Zebra Pro Purchases
 
-Zebra may offer optional paid features under "Zebra Pro". Zebra Pro may include unlimited saves, offline media, batch workflows, advanced filtering, export tools, or other features described in the app at the time of purchase.
+Zebra may offer optional paid features under "Zebra Pro". Zebra Pro may include unlimited saves, local reference library tools, batch workflows, advanced filtering, export tools, or other features described in the app at the time of purchase.
 
 The free version of Zebra currently includes limited local saving, including up to 25 saved blocks, 5 saved channels or bookmarks, and 1 custom folder. These limits may change in future versions. Zebra Pro removes these limits for the current Pro workflows described in the app.
 
@@ -89,7 +91,7 @@ These Terms do not give you ownership of Zebra or any third-party content.
 You agree to use Zebra lawfully and respectfully. You are responsible for:
 
 - Your use of content found through Zebra.
-- Any files, exports, or offline copies you create.
+- Any files, exports, or local copies you create.
 - Maintaining backups of important local data.
 - Keeping your device and Apple ID secure.
 
@@ -99,7 +101,7 @@ Zebra is a local-first app and does not guarantee recovery of deleted local libr
 
 Zebra is provided "as is" and "as available". To the maximum extent permitted by law, we disclaim all warranties, including implied warranties of merchantability, fitness for a particular purpose, non-infringement, availability, accuracy, and reliability.
 
-Zebra does not guarantee that public Are.na content, third-party media, exports, offline files, or app features will always be available, accurate, complete, or suitable for your needs.
+Zebra does not guarantee that public Are.na content, third-party media, exports, local files, or app features will always be available, accurate, complete, or suitable for your needs.
 
 ## 13. Limitation of Liability
 
